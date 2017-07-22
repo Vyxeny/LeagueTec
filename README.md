@@ -18,11 +18,6 @@ For in-deep changelog, go to each folder
 4. Push to the branch: `git push origin master`
 5. Submit a pull request :D
 
-## Credits
-- Vyxeny
-- ExoryXD
-- AlterEgojQuery
-
 ## License
 Copyright Vyxeny (c) 2017 
 
