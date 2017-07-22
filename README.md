@@ -3,8 +3,7 @@ Vyxeny assemblies for LeagueTec from Aimtec.io
 
 ## Changelog
 For in-deep changelog, go to each folder
-22/07/2017: Created README.md
-
+22/07/2017: Created README.md\s\s
 23/07/2017: Added Plug & Play Jinx
 
 ## Installation
