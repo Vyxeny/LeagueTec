@@ -19,9 +19,9 @@ For in-deep changelog, go to each folder
 5. Submit a pull request :D
 
 ## Credits
-- @Vyxeny
-- @ExoryXD
-- @AlterEgojQuery
+- Vyxeny
+- ExoryXD
+- AlterEgojQuery
 
 ## License
 Copyright Vyxeny (c) 2017 
